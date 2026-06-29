@@ -1,0 +1,6 @@
+{
+  "name": "IT'S YOU",
+  "description": "ITSYOU - Premium mobile fitness assistant with exercise guides, dynamic customizable workout planner, real-time rest timer, and progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
